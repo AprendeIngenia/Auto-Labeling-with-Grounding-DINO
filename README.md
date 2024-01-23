@@ -16,7 +16,7 @@ Hola chicos en este repositorio encontraran la programación y los comandos comp
 - En este caso utilizaremos Grounding DINO para etiquetado semiautomático de datasets de detección de objetos:
   - Podrás aprovechar el poder de Grounding DINO para generar propuestas de bounding boxes altamente precisas, reduciendo drásticamente el tiempo necesario para el etiquetado manual. Además, el modelo también puede ser empleado para inferir categorías de objetos presentes en cada región propuesta, aqui te dejamos el [codigo](https://github.com/AprendeIngenia/Auto-Labeling-with-Grounding-DINO/blob/7238a0dbfe87e31a0ec5fb81b7c6febd678cba13/Labeling_with_Grounding_DINO.ipynb) para que experimentes con el.
  
-![YoloV8](https://github.com/AprendeIngenia/Auto-Labeling-with-Grounding-DINO/assets/85022752/9b27de34-a66b-4ea7-8f3a-69a7c26d00b3)
+![YoloV8](https://github.com/AprendeIngenia/Auto-Labeling-with-Grounding-DINO/assets/85022752/ea0aa2cf-9f76-49b8-be2c-6acb65620230)
 
 # Recuerda que puedes contribuir a que siga desarrollando:
 Simplemente suscribiendote a mi canal de YouTube:
